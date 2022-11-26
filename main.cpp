@@ -76,7 +76,7 @@ int main() {
                     if (bal > 0)
                     {
                         system("cls");
-                        int randomHunger = randomNumber(1, 3);
+                        int randomHunger = randomNumber(2, 4);
                         int randomWeak = randomNumber(2, 4);
                         int trata = randomNumber(75, 350);
 
